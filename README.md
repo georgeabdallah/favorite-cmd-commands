@@ -1,12 +1,12 @@
 # favorite-cmd-commands
 
-# shutdown
+# ls
 
-`You can use it to shutdown, restart, log a user out`
+`to show the list of items in a directory`
 
-# Dir
+# mkdir
 
-`the **dir** command is essential. Use it to list the contents of a directory so that you know what files and folders are in it`
+`to creat new directory1`
 
 # cd
 
